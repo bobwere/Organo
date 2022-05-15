@@ -43,7 +43,7 @@ export const Home = () => {
       </nav>
 
       {/* body */}
-      <div className="flex flex-wrap-reverse gap-y-24 justify-between mt-16 py-16 px-6 mx-auto max-w-screen-xl sm:px-8 md:px-12 lg:px-16 xl:px-24">
+      <div className="flex flex-wrap-reverse gap-y-24 justify-between py-12 px-6 mx-auto max-w-screen-xl sm:px-8 md:px-12 lg:px-16 xl:px-24">
         {/* first half */}
         <div className="relative z-10 md:w-1/2 w-full">
           <img
