@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Website UI Challenge
+
+![ScreenShot](screenshot/3.png) 
+![ScreenShot](screenshot/2.png) 
+![ScreenShot](screenshot/1.png) 
+![ScreenShot](screenshot/4.png) 
+
+Link to website is https://organo-organic.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
