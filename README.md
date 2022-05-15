@@ -1,9 +1,9 @@
 # Website UI Challenge
 
-![ScreenShot](screenshot/3.png) 
-![ScreenShot](screenshot/2.png) 
-![ScreenShot](screenshot/1.png) 
-![ScreenShot](screenshot/4.png) 
+![ScreenShot](screenshots/3.jpg) 
+![ScreenShot](screenshots/2.jpg) 
+![ScreenShot](screenshots/1.jpg) 
+![ScreenShot](screenshots/4.jpg) 
 
 Link to website is https://organo-organic.netlify.app/
 
